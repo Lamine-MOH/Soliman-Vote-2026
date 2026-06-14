@@ -1,0 +1,26 @@
+{
+    "workbench.colorCustomizations": {
+        "[Monokai]": {
+            "editor.background": "#0a0a13",
+            "editorGutter.background": "#000012",
+            "sideBar.background": "#000",
+            "activityBar.background": "#122",
+            "statusBar.background": "#123",
+            "editor.selectionBackground": "#444",
+            "editor.lineHighlightBackground": "#222",
+            "tab.activeBackground": "#111",
+            "tab.inactiveBackground": "#222"
+        },
+        "activityBar.background": "#15158E",
+        "titleBar.activeBackground": "#1E1EC7",
+        "titleBar.activeForeground": "#FCFCFF",
+        "titleBar.inactiveBackground": "#15158E",
+        "titleBar.inactiveForeground": "#FCFCFF",
+        "statusBar.background": "#15158E",
+        "statusBar.foreground": "#FCFCFF",
+        "statusBar.debuggingBackground": "#15158E",
+        "statusBar.debuggingForeground": "#FCFCFF",
+        "statusBar.noFolderBackground": "#15158E",
+        "statusBar.noFolderForeground": "#FCFCFF"
+    }
+}
